@@ -1,0 +1,12 @@
+# Ambientes
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Banco local gerado para exportar os CSVs (nao versionar)
+hr.db
+
+# Sistema
+.DS_Store
+.ipynb_checkpoints/
