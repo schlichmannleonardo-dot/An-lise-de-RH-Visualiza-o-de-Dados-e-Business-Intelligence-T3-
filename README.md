@@ -4,7 +4,7 @@
 
 **Aluno:** Leonardo Schlichmann  
 **Turma:** T3 · Visualização de Dados e Business Intelligence  
-**Vídeo de apresentação:** *(cole aqui o link do seu vídeo — YouTube/Drive/Loom)*
+**Vídeo de apresentação:**https://drive.google.com/drive/u/2/folders/1Mla-j19Hp_5Jwerhwm_9Wh8dXMq1WUSn**
 
 > Este projeto (código e documentação) foi desenvolvido com o \*\*auxílio da
 > OreateAI\*\*, usada como ferramenta de apoio à geração e organização do código,
